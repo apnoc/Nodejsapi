@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "test001@gmail.com",
+      "hash": "$2a$10$fDybaktx4t2vcB/QY8dxwOhi7JJzGhd.vn4Dvmry8Vw0PhdtmOetK",
+      "id": "e1e392ee-61b9-4ba2-b211-667a4300b0dc"
+    },
+    {
+      "user": "testuser@test.com",
+      "hash": "$2a$10$SQ/8zkjnlmamUHl3Mz8oD.ZEpfTc1UZSAES7Yl9fSOJ78ZEB52hXK",
+      "id": "347fc8f3-1e8c-4aad-93a0-ceb82f18c477"
+    }
+  ]
+}
